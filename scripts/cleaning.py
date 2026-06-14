@@ -3,7 +3,7 @@ import os
 import pandas as pd
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_FILE = os.path.join(BASE_DIR, "Data", "customers-100.csv")
+DATA_FILE = os.path.join(BASE_DIR, "data", "customers-100.csv")
 OUTPUT_DIR = os.path.join(BASE_DIR, "output")
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "cleaned_customers.csv")
 

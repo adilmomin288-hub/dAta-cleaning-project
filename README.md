@@ -6,7 +6,7 @@ Clean raw customer data and prepare it for analysis.
 
 ## Dataset
 
-customers-100.csv
+- data/customers-100.csv
 
 ## Operations
 
@@ -25,4 +25,4 @@ customers-100.csv
 
 ## Output
 
-cleaned_customers.csv
+- output/cleaned_customers.csv
