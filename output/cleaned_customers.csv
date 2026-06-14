@@ -1,0 +1,11 @@
+Index,Customer Id,First Name,Last Name,Company,City,Country,Phone 1,Email
+1,CUST001,Adil,Momin,Soft Nexies,Pune,India,9322839263,adil@example.com
+2,CUST002,Rahul,Sharma,ABC Tech,Mumbai,India,9876543210,rahul@example.com
+3,CUST003,Priya,Patel,XYZ Solutions,Ahmedabad,India,9988776655,priya@example.com
+4,CUST004,Amit,Kumar,Data Corp,Delhi,India,9123456789,amit@example.com
+5,CUST005,Sneha,Joshi,IT Hub,Nagpur,India,9012345678,sneha@example.com
+6,CUST006,Vikas,Verma,Tech World,Jaipur,India,8899776655,vikas@example.com
+7,CUST007,Neha,Singh,Future AI,Lucknow,India,7788990011,neha@example.com
+8,CUST008,Rohan,Mehta,Cloud Ltd,Surat,India,6677889900,rohan@example.com
+9,CUST009,Pooja,Jain,NextGen,Bhopal,India,5566778899,pooja@example.com
+10,CUST010,Arjun,Reddy,Smart Tech,Hyderabad,India,4455667788,arjun@example.com
